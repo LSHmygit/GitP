@@ -69,7 +69,7 @@
 %>
 
 <body>
-	<h1> 업데이트 시킬 사람의 이름을 입력하세요. </h1>
+	<h1> 업데이트 시킬 사람의 이름을 입력하세요. add add </h1>
 	<form action="update_ok.jsp" method ="post">
 		
 		name <input type="text" name="name"/><br/>
