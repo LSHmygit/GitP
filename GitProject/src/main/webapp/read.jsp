@@ -53,9 +53,6 @@
 				"<td> " + tmp.get("age") + "</td> " +
 				"<td> " + tmp.get("salary")  + "</td> "  +
 				"</tr> ");
-		//out.print(tmp.getString("name") + " <br/>");
-		//out.print(tmp.get("age") + " <br/>");
-		//out.print(tmp.get("salary") + " <br/>");
 		
 		
 	}
