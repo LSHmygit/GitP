@@ -53,6 +53,8 @@
 		
 	}
 	out.println("</table> <br/>");
+	
+
 
 %>
 
@@ -74,6 +76,11 @@
 		name <input type="text" name="name"/>
 		<input type="submit" value="확인"/>
 	</form>
+	
+	<br/><br/>
+	<a href="main.jsp">메인 페이지로 가기</a> <br/><br/>
+	
+	
 </body>
 </html>
 
